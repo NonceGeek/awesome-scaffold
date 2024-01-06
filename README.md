@@ -9,3 +9,7 @@ A curated list of awesome Scaffolds for Web2/Web3.
 * [Scaffold-ETH-2](https://github.com/scaffold-eth/scaffold-eth-2) - 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
 * [Scaffold-ETH-Examples](https://github.com/scaffold-eth/scaffold-eth-examples) - The Examples based on Scaffold-ETH.
+
+* [Scaffold-Aptos](https://github.com/NonceGeek/scaffold-aptos) - 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Aptos blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+
+* [Scaffold-Aptos-Examples(https://github.com/NonceGeek/scaffold-aptos-examples) - The Examples based on Scaffold-Aptos.
